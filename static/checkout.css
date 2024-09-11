@@ -47,12 +47,12 @@ button {
     margin-top: 20px;
     padding: 10px;
     border: none;
-    background-color: #b54d4d;
+    background-color: #3ed12a;
     color: white;
     border-radius: 4px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #099417;
+    background-color: rgb(7, 124, 19);
 }
